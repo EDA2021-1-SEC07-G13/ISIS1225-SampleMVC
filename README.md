@@ -1,3 +1,6 @@
+Integrantes del grupo:
+David Santiago Vargas Prada-ds.vargasp1@uniandes.edu.co-202013826
+Juan Esteban Cuellar Argotty-j.cuellara@uniandes.edu.co-202014258
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
@@ -26,5 +29,4 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |--Algorithms: Implementación de los algoritmos vistos en el curso (por ejemplo algoritmos de ordenamiento)
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
-
 
